@@ -64,5 +64,13 @@ Syntax:
 Note: git pull is necessary in child as well as parent branches before merging to avoid conflicts.
 
 -------------------------------------------------------------------------
+Git flow workflow diagram:
+
+![Git flow workflow diagram](image-7.png)
+
+Ref: 
+a. Gitflow on GitHub: How to use Git Flow workflows with GitHub Based Repos: https://www.youtube.com/watch?v=WQuxeEvaCxs
+b. Gitflow workflow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
 
 
