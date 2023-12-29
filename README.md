@@ -28,10 +28,11 @@ Syntax: git push --set-upstream origin feature/demo-feature-1 (for first push) a
 git push (for later pushes)
 ![With simple git push](image-4.png)
 
-5. Once changes to the feature are completed, we want to merge them to the parent branch and delete the feature branch locally and on remote repository:
-Usage:
+5. Once changes to the feature are completed, we want to merge them to the parent branch and delete the feature branch locally and on remote repository
+Usage:![Git flow finish example](image-5.png)
 
 Syntax: git flow feature finish demo-feature-1
+Note: These changes are done locally so git push is required for the changes to be reflected on remote repository.
 
 
 
